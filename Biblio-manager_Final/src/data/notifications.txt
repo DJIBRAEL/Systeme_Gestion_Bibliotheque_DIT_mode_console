@@ -1,0 +1,4 @@
+[2026-01-08T15:49:10.671617] L'utilisateur U-P2Z63IIM peut emprunter le livre 9782212679571 (réservation RES-25YKHH0A).
+[2026-01-08T21:54:57.322554] L'utilisateur H54419 peut emprunter le livre 9782212679571 (réservation RES-G1WPHZU3).
+[2026-01-09T06:44:41.136177] L'utilisateur U-5DIZ5WRI peut emprunter le livre 9782412070048 (réservation RES-FFC5Y0LY).
+[2026-01-09T06:45:47.694661] L'utilisateur U-5DIZ5WRI peut emprunter le livre 9782412070048 (réservation RES-PLG7BQOX).

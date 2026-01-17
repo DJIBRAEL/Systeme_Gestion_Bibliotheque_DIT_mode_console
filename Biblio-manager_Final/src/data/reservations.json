@@ -1,0 +1,82 @@
+{
+    "reservations": [
+        {
+            "id_reservation": "RES-8S8JAC95",
+            "matricule_user": "U-TEST",
+            "isbn": "9782412070048",
+            "date_reservation": "2026-01-04T09:55:00.204766",
+            "statut": "annule"
+        },
+        {
+            "id_reservation": "RES-SZ53WUNI",
+            "matricule_user": "U-CLI",
+            "isbn": "9782412070048",
+            "date_reservation": "2026-01-04T10:11:30.796206",
+            "statut": "notifie"
+        },
+        {
+            "id_reservation": "RES-DEF4PLPW",
+            "matricule_user": "U3",
+            "isbn": "1111111111",
+            "date_reservation": "2026-01-04T10:13:26.228741",
+            "statut": "en_attente"
+        },
+        {
+            "id_reservation": "RES-FFC5Y0LY",
+            "matricule_user": "U-5DIZ5WRI",
+            "isbn": "9782412070048",
+            "date_reservation": "2026-01-04T10:17:27.461650",
+            "statut": "notifie"
+        },
+        {
+            "id_reservation": "RES-PLG7BQOX",
+            "matricule_user": "U-5DIZ5WRI",
+            "isbn": "9782412070048",
+            "date_reservation": "2026-01-04T10:21:23.154582",
+            "statut": "notifie"
+        },
+        {
+            "id_reservation": "RES-4KK9DK9W",
+            "matricule_user": "1",
+            "isbn": "01",
+            "date_reservation": "2026-01-04T11:56:13.990109",
+            "statut": "annule"
+        },
+        {
+            "id_reservation": "RES-7RB21AHK",
+            "matricule_user": "U-P2Z63IIM",
+            "isbn": "9782412098370",
+            "date_reservation": "2026-01-08T14:21:54.616979",
+            "statut": "en_attente"
+        },
+        {
+            "id_reservation": "RES-25YKHH0A",
+            "matricule_user": "U-P2Z63IIM",
+            "isbn": "9782212679571",
+            "date_reservation": "2026-01-08T15:34:58.002824",
+            "statut": "confirme"
+        },
+        {
+            "id_reservation": "RES-G1WPHZU3",
+            "matricule_user": "H54419",
+            "isbn": "9782212679571",
+            "date_reservation": "2026-01-08T15:36:28.977325",
+            "statut": "notifie"
+        }
+    ],
+    "files": {
+        "9782412070048": [
+            "RES-PLG7BQOX"
+        ],
+        "1111111111": [
+            "RES-DEF4PLPW"
+        ],
+        "01": [],
+        "9782412098370": [
+            "RES-7RB21AHK"
+        ],
+        "9782212679571": [
+            "RES-G1WPHZU3"
+        ]
+    }
+}

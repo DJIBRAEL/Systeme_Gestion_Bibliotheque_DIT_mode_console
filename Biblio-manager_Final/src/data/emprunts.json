@@ -1,0 +1,82 @@
+{
+    "emprunts": [
+        {
+            "id_emprunt": "EMP-QRVMBLEB",
+            "matricule_user": "U-5DIZ5WRI",
+            "isbn": "9782412070048",
+            "code_barre": "00001",
+            "date_emprunt": "2026-01-04T10:21:23",
+            "date_echeance": "2026-01-18T10:21:23",
+            "date_retour": "2026-01-04T10:21:23",
+            "statut": "retourne",
+            "renouvellements": 0
+        },
+        {
+            "id_emprunt": "EMP-XO3R3FG1",
+            "matricule_user": "U-3HSBZLV9",
+            "isbn": "9782412070048",
+            "code_barre": "00001",
+            "date_emprunt": "2026-01-04T11:34:17",
+            "date_echeance": "2026-01-18T11:34:17",
+            "date_retour": "2026-01-04T11:35:29",
+            "statut": "retourne",
+            "renouvellements": 0
+        },
+        {
+            "id_emprunt": "EMP-52NNZSHK",
+            "matricule_user": "U-5DIZ5WRI",
+            "isbn": "9782416016417",
+            "code_barre": "00003",
+            "date_emprunt": "2026-01-07T12:05:06",
+            "date_echeance": "2026-01-21T12:05:06",
+            "date_retour": null,
+            "statut": "emprunte",
+            "renouvellements": 0
+        },
+        {
+            "id_emprunt": "EMP-MJ8XFGTF",
+            "matricule_user": "U-5DIZ5WRI",
+            "isbn": "9782416016417",
+            "code_barre": "00002",
+            "date_emprunt": "2026-01-07T12:06:23",
+            "date_echeance": "2026-01-21T12:06:23",
+            "date_retour": "2026-01-08T10:33:29",
+            "statut": "retourne",
+            "renouvellements": 0
+        },
+        {
+            "id_emprunt": "EMP-IHUBQPET",
+            "matricule_user": "U-P2Z63IIM",
+            "isbn": "9782212679571",
+            "code_barre": "00147",
+            "date_emprunt": "2026-01-08T16:23:01",
+            "date_echeance": "2026-01-22T16:23:01",
+            "date_retour": null,
+            "statut": "emprunte",
+            "renouvellements": 0
+        },
+        {
+            "id_emprunt": "EMP-8PMZ4RHY",
+            "matricule_user": "U-P2Z63IIM",
+            "isbn": "9782710811817",
+            "code_barre": "12421",
+            "date_emprunt": "2026-01-08T17:30:25",
+            "date_echeance": "2026-01-22T17:30:25",
+            "date_retour": null,
+            "statut": "emprunte",
+            "renouvellements": 0
+        },
+        {
+            "id_emprunt": "EMP-Q1ZF6X0M",
+            "matricule_user": "U-3HSBZLV9",
+            "isbn": "9782416016417",
+            "code_barre": "00002",
+            "date_emprunt": "2026-01-08T19:35:48",
+            "date_echeance": "2026-01-22T19:35:48",
+            "date_retour": null,
+            "statut": "emprunte",
+            "renouvellements": 0
+        }
+    ],
+    "suspensions": {}
+}

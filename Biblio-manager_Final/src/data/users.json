@@ -1,0 +1,93 @@
+[
+    {
+        "id": "P-PJEBPP51",
+        "nom": "Auto",
+        "prenom": "Runner",
+        "email": "auto.runner@example.com",
+        "telephone": "0123456789",
+        "date_inscription": "2026-01-09T16:19:49.674759",
+        "matricule": "U-5DIZ5WRI",
+        "type_utilisateur": "ETUDIANT",
+        "statut": "inactif",
+        "livres_empruntes": [],
+        "historique": []
+    },
+    {
+        "id": "P-DGF2SXIY",
+        "nom": "Bio Mourou",
+        "prenom": "Yo",
+        "email": "mourou@gmail.com",
+        "telephone": "0161302741",
+        "date_inscription": "2026-01-09T16:19:49.674980",
+        "matricule": "U-3HSBZLV9",
+        "type_utilisateur": "PROFESSEUR",
+        "statut": "actif",
+        "livres_empruntes": [
+            {
+                "isbn": "9782416016417",
+                "id_exemplaire": "00002",
+                "date_emprunt": "2026-01-08T19:35:48.998364"
+            }
+        ],
+        "historique": [
+            {
+                "isbn": "9782416016417",
+                "id_exemplaire": "00002",
+                "date_emprunt": "2026-01-08T19:35:48.998364",
+                "action": "emprunt"
+            }
+        ]
+    },
+    {
+        "id": "P-XANCA0JD",
+        "nom": "HONHE",
+        "prenom": "Carole",
+        "email": "bignon.caro@gmail.com",
+        "telephone": "0155478547",
+        "date_inscription": "2026-01-09T16:19:49.675190",
+        "matricule": "U-Y569PEJE",
+        "type_utilisateur": "ETUDIANT",
+        "statut": "actif",
+        "livres_empruntes": [],
+        "historique": []
+    },
+    {
+        "id": "P-VZQE6EKG",
+        "nom": "DAKOTO",
+        "prenom": "Abel",
+        "email": "abel.da@gmail.co",
+        "telephone": "0156987451",
+        "date_inscription": "2026-01-09T16:19:49.675403",
+        "matricule": "U-P2Z63IIM",
+        "type_utilisateur": "PROFESSEUR",
+        "statut": "actif",
+        "livres_empruntes": [],
+        "historique": []
+    },
+    {
+        "id": "P-5CB0OEEM",
+        "nom": "GOUNOU",
+        "prenom": "Honorine",
+        "email": "honor@gmail.com",
+        "telephone": "0154785425",
+        "date_inscription": "2026-01-09T16:19:49.675603",
+        "matricule": "U-X15N63YN",
+        "type_utilisateur": "ETUDIANT",
+        "statut": "actif",
+        "livres_empruntes": [],
+        "historique": []
+    },
+    {
+        "id": "P-RHHWVKVH",
+        "nom": "POM",
+        "prenom": "PUIO",
+        "email": "pooi@gmail.com",
+        "telephone": "0125454821",
+        "date_inscription": "2026-01-09T16:36:48.539382",
+        "matricule": "U-HF9LD9YT",
+        "type_utilisateur": "EXTERNE",
+        "statut": "actif",
+        "livres_empruntes": [],
+        "historique": []
+    }
+]

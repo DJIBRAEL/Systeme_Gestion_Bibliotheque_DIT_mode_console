@@ -1,0 +1,25 @@
+[2026-01-08 21:54:57] INFO | SYSTEM | NOTIFICATION_RESERVATION | 9782212679571 | Notification envoyée pour la réservation RES-G1WPHZU3 à l'utilisateur H54419
+[2026-01-09 06:36:50] INFO | Admin | AJOUT_LIVRE | 9782412070048 | Ajout du livre 'Apprendre Python' par Eurode (ISBN: 9782412070048)
+[2026-01-09 06:44:41] INFO | SYSTEM | NOTIFICATION_RESERVATION | 9782412070048 | Notification envoyée pour la réservation RES-FFC5Y0LY à l'utilisateur U-5DIZ5WRI
+[2026-01-09 06:44:41] INFO | Admin | AJOUT_EXEMPLAIRE | 9782412070048 | Ajout de l'exemplaire 12895 au livre Apprendre Python (ISBN: 9782412070048)
+[2026-01-09 06:45:47] INFO | SYSTEM | NOTIFICATION_RESERVATION | 9782412070048 | Notification envoyée pour la réservation RES-PLG7BQOX à l'utilisateur U-5DIZ5WRI
+[2026-01-09 06:45:47] INFO | Admin | AJOUT_EXEMPLAIRE | 9782412070048 | Ajout de l'exemplaire 01222 au livre Apprendre Python (ISBN: 9782412070048)
+[2026-01-09 07:04:15] ERROR | Admin | LISTE_EMPRUNTS | N/A | Erreur lors de la liste des emprunts en cours : 'Emprunt' object has no attribute 'nom'
+[2026-01-09 07:16:04] INFO | Admin | LISTE_EMPRUNTS | N/A | 4 emprunt(s) en cours affiché(s)
+[2026-01-09 07:23:52] INFO | Admin | LISTE_EMPRUNTS | N/A | 4 emprunt(s) en cours affiché(s)
+[2026-01-09 07:24:04] INFO | Admin | LISTE_TOUS_EMPRUNTS | N/A | 7 emprunt(s) historisés
+[2026-01-09 07:27:23] INFO | Admin | LISTE_EMPRUNTS_RETARD | N/A | 0 en retard
+[2026-01-09 07:40:05] WARNING | Admin | AFFICHER_RESERVATION | 0 | Non trouvée
+[2026-01-09 07:40:13] INFO | Admin | LISTE_RESERVATIONS | N/A | 9 réservation(s) affichée(s)
+[2026-01-09 07:40:28] INFO | Admin | AFFICHER_RESERVATION | RES-25YKHH0A | Détail affiché
+[2026-01-09 07:42:46] INFO | Admin | AFFICHER_RESERVATION | RES-25YKHH0A | Détail affiché
+[2026-01-09 07:43:08] INFO | Admin | AFFICHER_RESERVATION | RES-25YKHH0A | Détail affiché
+[2026-01-09 07:44:16] INFO | Admin | AFFICHER_RESERVATION | RES-25YKHH0A | Détail affiché
+[2026-01-09 08:15:17] WARNING | Admin | CREER_RESERVATION | 0 | Erreur de validation lors de la création de la réservation pour l'utilisateur 0 : Utilisateur introuvable
+[2026-01-09 08:15:23] INFO | Admin | LISTE_RESERVATIONS | N/A | 9 réservation(s) affichée(s)
+[2026-01-09 16:23:30] INFO | Admin | AJOUT_LIVRE | 9782729863982 | Ajout du livre 'La statistique' par François (ISBN: 9782729863982)
+[2026-01-09 16:27:42] INFO | Admin | AJOUT_EXEMPLAIRE | 9782729863982 | Ajout de l'exemplaire 12936 au livre La statistique (ISBN: 9782729863982)
+[2026-01-09 16:36:48] INFO | Admin | CREATION_UTILISATEUR | U-HF9LD9YT | Création de l'utilisateur PUIO POM - (pooi@gmail.com) - Type: Personnel administratif
+[2026-01-09 16:47:48] INFO | Admin | LISTE_EMPRUNTS | N/A | 4 emprunt(s) en cours affiché(s)
+[2026-01-09 16:48:36] INFO | Admin | LISTE_EMPRUNTS_USER | U-P2Z63IIM | 2 emprunt(s) affiché(s)
+[2026-01-09 16:53:09] INFO | Admin | LISTE_EMPRUNTS | N/A | 4 emprunt(s) en cours affiché(s)

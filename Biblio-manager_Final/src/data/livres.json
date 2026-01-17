@@ -1,0 +1,238 @@
+[
+    {
+        "isbn": "9782409038426",
+        "titre": "Raspberry Pi",
+        "auteur": "Kevin SARTOR",
+        "editeur": "eni",
+        "annee_publication": 2023,
+        "categorie": "AUTRE",
+        "mots_cles": [
+            "electronique",
+            "python",
+            "domotique",
+            "esp8266"
+        ],
+        "date_ajout": "2026-01-09T16:19:49.672046",
+        "exemplaires": [
+            {
+                "id_exemplaire": "EX-2UO6AW65",
+                "code_barre": "00123",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.672193"
+            }
+        ]
+    },
+    {
+        "isbn": "9782212679571",
+        "titre": "Maths avec Python",
+        "auteur": "Peter Farrell",
+        "editeur": "EYROLLES",
+        "annee_publication": 2020,
+        "categorie": "AUTRE",
+        "mots_cles": [
+            "python"
+        ],
+        "date_ajout": "2026-01-09T16:19:49.672327",
+        "exemplaires": [
+            {
+                "id_exemplaire": "EX-2EOOW1J9",
+                "code_barre": "00147",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.672674"
+            }
+        ]
+    },
+    {
+        "isbn": "9782100813728",
+        "titre": "IA triomphes",
+        "auteur": "Melanie Mitchell",
+        "editeur": "Dunod",
+        "annee_publication": 2021,
+        "categorie": "AUTRE",
+        "mots_cles": [
+            "ia",
+            "elect"
+        ],
+        "date_ajout": "2026-01-09T16:19:49.672878",
+        "exemplaires": [
+            {
+                "id_exemplaire": "EX-4Q70D9O7",
+                "code_barre": "01245",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.673001"
+            }
+        ]
+    },
+    {
+        "isbn": "9782100847693",
+        "titre": "DL avec Keras",
+        "auteur": "Aurélien Géron",
+        "editeur": "Dunod",
+        "annee_publication": 2024,
+        "categorie": "AUTRE",
+        "mots_cles": [
+            "ia",
+            "ml",
+            "dl"
+        ],
+        "date_ajout": "2026-01-09T16:19:49.673121",
+        "exemplaires": [
+            {
+                "id_exemplaire": "EX-MDQU6EVI",
+                "code_barre": "00124",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.673224"
+            }
+        ]
+    },
+    {
+        "isbn": "9782416016417",
+        "titre": "IA, python",
+        "auteur": "EYROLLES",
+        "editeur": "EYROLLES",
+        "annee_publication": 2024,
+        "categorie": "AUTRE",
+        "mots_cles": [
+            "python"
+        ],
+        "date_ajout": "2026-01-09T16:19:49.673334",
+        "exemplaires": [
+            {
+                "id_exemplaire": "EX-8Q7V3VNK",
+                "code_barre": "00001",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.673459"
+            },
+            {
+                "id_exemplaire": "EX-R6BRBNOO",
+                "code_barre": "00002",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.673565"
+            },
+            {
+                "id_exemplaire": "EX-N7ZSS5ZE",
+                "code_barre": "00003",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.673682"
+            }
+        ]
+    },
+    {
+        "isbn": "9782412098370",
+        "titre": "IA en low-code",
+        "auteur": "Abel Michael",
+        "editeur": "F1RST",
+        "annee_publication": 2024,
+        "categorie": "AUTRE",
+        "mots_cles": [
+            "ia",
+            "low",
+            "code"
+        ],
+        "date_ajout": "2026-01-09T16:19:49.673812",
+        "exemplaires": [
+            {
+                "id_exemplaire": "EX-V1HNAD0B",
+                "code_barre": "00145",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.673910"
+            }
+        ]
+    },
+    {
+        "isbn": "9782710811817",
+        "titre": "Data Science",
+        "auteur": "Filipe AFONSO",
+        "editeur": "Technip",
+        "annee_publication": 2018,
+        "categorie": "AUTRE",
+        "mots_cles": [
+            "stats",
+            "data",
+            "python",
+            "math"
+        ],
+        "date_ajout": "2026-01-09T16:19:49.674011",
+        "exemplaires": [
+            {
+                "id_exemplaire": "EX-28JGFSWC",
+                "code_barre": "12421",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.674104"
+            }
+        ]
+    },
+    {
+        "isbn": "9782412070048",
+        "titre": "Apprendre Python",
+        "auteur": "Eurode",
+        "editeur": "Dunod",
+        "annee_publication": 2024,
+        "categorie": "INFORMATIQUE",
+        "mots_cles": [
+            "programme",
+            "python",
+            "scripts"
+        ],
+        "date_ajout": "2026-01-09T16:19:49.674204",
+        "exemplaires": [
+            {
+                "id_exemplaire": "EX-IT1IUVC7",
+                "code_barre": "12895",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.674297"
+            },
+            {
+                "id_exemplaire": "EX-BAQMT5CV",
+                "code_barre": "01222",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:19:49.674420"
+            }
+        ]
+    },
+    {
+        "isbn": "9782729863982",
+        "titre": "La statistique",
+        "auteur": "François",
+        "editeur": "ellipse",
+        "annee_publication": 2023,
+        "categorie": "SCIENCE",
+        "mots_cles": [
+            "math",
+            "stats"
+        ],
+        "date_ajout": "2026-01-09T16:23:30.608846",
+        "exemplaires": [
+            {
+                "id_exemplaire": "EX-0UZEWX5S",
+                "code_barre": "12936",
+                "etat": "bon",
+                "localisation": "stock",
+                "statut": "disponible",
+                "date_acquisition": "2026-01-09T16:27:42.082284"
+            }
+        ]
+    }
+]
